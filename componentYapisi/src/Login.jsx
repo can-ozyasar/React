@@ -24,7 +24,7 @@ function Login() {
 <div>
 
 <div>
-<p style={{ color:"pink"}}>kulanici adınız</p>
+<p style={{ color:"pink"}}>kulanici adiniz</p>
 <input style={{color:"pink"}} type="text" />
 </div>
 
