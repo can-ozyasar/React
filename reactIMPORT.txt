@@ -1,0 +1,30 @@
+**DERS1**
+live-server.cmd /* YAPILAN HTML Yİ ÇALIŞTIRMAK İÇİN LİVE DE 
+/* 
+
+DERS 5
+//* yeni dosya oluşturma 
+ npm create vite@latest
+ javascript
+ npm install
+ npm run dev */
+ 
+  
+  //*
+  componet oluşturmak için . jsx uzantılı dosya oluştur .sonra
+  içine rfce yaz  kısa yolu ile entere bas o oto olusturur 
+  
+  //*
+ style tagı şu şekilde tanımlanmalı ilk parantez javascrip içne yazıldığı için ikinci ise style için 
+style={{}}
+*//
+
+//* bir componet i dışarı olduğğu gibi taşıyabilmek için export default kullanılır 
+//* belirli bir parçayı export e dilecekse export  kullanılır 
+
+
+
+
+
+
+
