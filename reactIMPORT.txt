@@ -6,7 +6,7 @@ DERS 5
 //* yeni dosya oluşturma 
  npm create vite@latest
  javascript
- npm install
+ npm install //-- o klasörün içine girip cd ile sonra install yapmak gerek
  npm run dev */
  
   
@@ -24,7 +24,11 @@ style={{}}
 
 
 
-
+// DERS 8  REACT DEV TOOLS KULLANIMI
+ÖNCE EKLENİTYİ EKLEDİK (REACT DEVELOPER TOOLS EKLENTİSİ GOOGLE EKLENTİLERDEN EKLEdik )
+sayfamıza girdik 
+F12 YAPIP SEKMEDEN component e tıkladık bu eklenti ile geliyor bu sekme 
+o sekme altından componentleri görebiliyoruz 
 
 
 
